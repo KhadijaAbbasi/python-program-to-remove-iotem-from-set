@@ -1,0 +1,1 @@
+# python-program-to-remove-iotem-from-set
